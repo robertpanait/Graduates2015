@@ -1,0 +1,4 @@
+Avem un “Worker” pentru care trebuie sa creem urmatorii observatori: 
+-	unul care calculeaza salariul net atunci cand ii se modifica salariu brut al persoanei
+-	altul care simuleaza trimiterea unui email atunci cand a primit o marire de salariu
+-	altul care cere care face o simulare de credit atunci cand salariu net depaseste 5.000
